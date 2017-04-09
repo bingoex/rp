@@ -5,7 +5,7 @@ a http reverse proxy server.
 
 ## How to Use
 ```shell
-./rp -l 10.245.65.27:80 -p 127.0.0.1:80
+./rp -l 10.248.65.22:80 -p 127.0.0.1:80
 ```
 - 10.248.65.22.80 is Foreign visible IP[eth1]（Users direct access to the address）
 - 127.0.0.1:80 is The actual provide service‘s IP (it can be a apache server)
