@@ -1,6 +1,6 @@
-#RP
+# RP
 
-a http proxy server. 
+a http reverse proxy server. 
 - you can add your logic before really request.
 
 ## How to Use
